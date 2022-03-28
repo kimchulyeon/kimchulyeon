@@ -18,4 +18,4 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <br/>  <br/>  <br/>
 </div>
 
-![kimchulyeon's github stats](https://github-readme-stats.vercel.app/api?username=kimchulyeon&show_icons=true)
+![kimchulyeon's github stats](https://github-readme-stats.vercel.app/api?username=kimchulyeon&show_icons=true&theme=synthwave)
