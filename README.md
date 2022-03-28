@@ -9,7 +9,13 @@
   <a href="mailto:guinness987@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guinness987@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>  <a href="https://www.instagram.com/hamalse__">
+<img
+src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hamalse__"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+ 
 
 
 
