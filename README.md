@@ -15,6 +15,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hamalse__"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+  <br />  <br />
+  ![kimchulyeon's github stats](https://github-readme-stats.vercel.app/api?username=kimchulyeon&show_icons=true)
+
 
  
 
