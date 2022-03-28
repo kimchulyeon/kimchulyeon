@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=60&desc=Kim%20Chulyeon&descSize=15&descAlign=80 /> 
   <br /> <br /><br /> <br /><br /> <br />
   <h3>✨Stacks✨</h3>
   <hr/>
