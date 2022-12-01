@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=60&fontColor=444&desc=KimChulyeon&descSize=15&descAlign=80" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=So Many Things to learn 🤣&fontSize=60&fontColor=444&desc=Chulyeon&descSize=15&descAlign=80" /> 
   <br /> <br />
   <h3>✨Stacks✨</h3>
   <hr/>
