@@ -8,7 +8,7 @@
   <br /><br />
   <h3>🍀Etc🍀</h3>
   <hr />
-  <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=Slack&logoColor=black">  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=Figma&logoColor=black">  <img src="https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=Git&logoColor=black">  <img src="https://img.shields.io/badge/Svn-F24E1E?style=for-the-badge&logo=Svn&logoColor=yellow"> 
+  <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=Slack&logoColor=black">  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=Figma&logoColor=black">  <img src="https://img.shields.io/badge/Git-F2DEBA?style=for-the-badge&logo=Git&logoColor=black">  <img src="https://img.shields.io/badge/Svn-4E6C50?style=for-the-badge&logo=Svn&logoColor=yellow"> 
     <br /><br />
   <h3>🔆Contact🔆</h3>
   <hr />
