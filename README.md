@@ -22,4 +22,4 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 
-![kimchulyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchulyeon&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchulyeon&layout=compact)](https://github.com/kimchulyeon/github-readme-stats)
+
