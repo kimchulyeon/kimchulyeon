@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=배울거%20참%20많다%20🤣&fontSize=20&fontColor=444" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=배울거%20참%20많다%20🤣&fontSize=20&fontColor=444" /> 
   <br /> <br />
   <h3>✨Stacks✨</h3>
   <hr/>
