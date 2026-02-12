@@ -32,13 +32,6 @@
 
 <br />
 
-<a href="https://github.com/kimchulyeon/glitchsnap-studio/releases/latest">
-  <img src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/kimchulyeon/glitchsnap-studio/releases/latest">
-  <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-</a>
 &nbsp;
 <a href="https://glitchsnap.com/">
   <img src="https://img.shields.io/badge/Website-소개_페이지-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" />
