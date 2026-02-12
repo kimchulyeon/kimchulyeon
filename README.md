@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://github.com/kimchulyeon/glitchsnap-studio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimchulyeon&repo=glitchsnap-studio&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="124" height="124" alt="Image" src="https://github.com/user-attachments/assets/224cf234-c91a-4f05-82b8-f7808056dc61" />
 </a>
 
 <br />
@@ -59,7 +59,7 @@
 <br />
 
 <a href="https://github.com/kimchulyeon/Dasibogi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimchulyeon&repo=Dasibogi&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="124" height="124" alt="Image" src="https://github.com/user-attachments/assets/af9a3f79-bdea-4203-bd8a-4cd574ad034c" />
 </a>
 
 <br />
