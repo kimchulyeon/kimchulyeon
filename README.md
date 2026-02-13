@@ -81,7 +81,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nuxtjs,vue&theme=dark" />
 
 **Mobile & Desktop**
 
