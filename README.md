@@ -63,13 +63,17 @@
 
 <br />
 
-<a href="https://github.com/kimchulyeon/Dasibogi/releases/latest">
-  <img src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/kimchulyeon/Dasibogi/releases/latest">
-  <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-</a>
+  <a href="https://s3.ap-northeast-2.amazonaws.com/dasibogi-releases/latest/Dasibogi_macos_aarch64.dmg">
+    <img src="https://img.shields.io/badge/macOS_(Apple_Silicon)-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://s3.ap-northeast-2.amazonaws.com/dasibogi-releases/latest/Dasibogi_macos_x64.dmg">
+    <img src="https://img.shields.io/badge/macOS_(Intel)-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://s3.ap-northeast-2.amazonaws.com/dasibogi-releases/latest/Dasibogi_windows.exe">
+    <img src="https://img.shields.io/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+  </a>
 
 <br /><br />
 
