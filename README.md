@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://github.com/kimchulyeon/glitchsnap-studio">
-  <img width="124" height="124" alt="Image" src="https://github.com/user-attachments/assets/224cf234-c91a-4f05-82b8-f7808056dc61" />
+  <img width="124" height="124" alt="GlitchSnap" src="./glitchsnap-studio.png" />
 </a>
 
 <br />
@@ -52,7 +52,7 @@
 <br />
 
 <a href="https://github.com/kimchulyeon/Dasibogi">
-  <img width="124" height="124" alt="Image" src="https://github.com/user-attachments/assets/af9a3f79-bdea-4203-bd8a-4cd574ad034c" />
+  <img width="124" height="124" alt="Dasibogi" src="./dasibogi.png" />
 </a>
 
 <br />
