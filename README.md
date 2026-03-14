@@ -90,7 +90,7 @@
 <br />
 
 <a href="https://github.com/kimchulyeon/copyNpaste">
-  <img width="124" height="124" alt="copyNpaste" src="./copynpaste.png" />
+  <img width="124" height="124" alt="copyNpaste" src="./copyNpaste.png" />
 </a>
 
 <br />
