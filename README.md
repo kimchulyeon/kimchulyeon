@@ -79,6 +79,36 @@
 
 ---
 
+### 📂 copyNpaste — Project Folder Sync Tool
+
+<br />
+
+> **SI 환경에서 회사 ↔ 고객사 프로젝트 폴더를 안전하게 동기화하는 데스크톱 앱**
+>
+> 변경 파일 감지 · Git 이력 조회 · 인프라 파일 경고 · 선택적 덮어쓰기
+
+<br />
+
+<a href="https://github.com/kimchulyeon/copyNpaste">
+  <img width="124" height="124" alt="copyNpaste" src="./copynpaste.png" />
+</a>
+
+<br />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,react,ts,tailwind&theme=dark&perline=4" height="44" />
+</p>
+
+<br />
+
+  <a href="https://github.com/kimchulyeon/copyNpaste/releases/latest">
+    <img src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+
+<br /><br />
+
+---
+
 ### ✨ Tech Stacks
 
 <br />
