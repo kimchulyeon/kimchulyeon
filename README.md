@@ -107,7 +107,37 @@
 
 <br /><br />
 
----
+ ---
+
+### 🖥️  SSH-GUI — Mac Mini Remote File Manager
+
+<br />
+
+> **Tailscale + SSH로 원격 맥미니의 파일을 GUI로 관리하는 데스크톱 앱**
+>
+> 파일 탐색기 · SFTP 업로드/다운로드 · 드래그 앤 드롭 · 검색 · 시스템
+  상태
+
+<br />
+
+<a href="https://github.com/kimchulyeon/ssh-gui">
+  <img width="124" height="124" alt="Secretary" src="./ssh-gui.png" />
+</a>
+
+<br />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,react,ts,tailwind&theme=dark&perline=4" height="44" />
+</p>
+
+<br />
+
+<a href="https://github.com/kimchulyeon/ssh-gui/releases/latest">
+  <img src="https://img.shields.io/badge/macOS-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+
+
+<br /><br />
 
 ### ✨ Tech Stacks
 
