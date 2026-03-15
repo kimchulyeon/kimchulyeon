@@ -109,7 +109,7 @@
 
  ---
 
-### 🖥️  SSH-GUI — Mac Mini Remote File Manager
+### 🖥️  Secretary — Mac Mini Remote File Manager
 
 <br />
 
