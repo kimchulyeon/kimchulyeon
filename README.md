@@ -10,6 +10,41 @@
 
 ---
 
+ ### 🌿 White Cotton — AWS 서비스 백과사전
+
+  <br />
+
+  > **AWS 공식 문서를 읽기 전에 먼저 보는 사이트**
+  >
+  > 99개 AWS 서비스 · 레벨별 설명 · AI 아키텍처 추천 · 다이어그램
+
+  <br />
+
+  <a href="https://github.com/kimchulyeon/whitecotton">
+    <img width="124" height="124" alt="White Cotton" src="./whitecotton.png" />
+  </a>
+
+  <br />
+
+  <p>
+    <img
+  src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react&theme=dark&perline=4"
+  height="44" />
+  </p>
+
+  <br />
+
+  <a href="https://whitecotton-rust.vercel.app">
+    <img src="https://img.shields.io/badge/Website-whitecotton-667EEA?style=for-the-bad
+  ge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <br /><br />
+
+  
+
+---
+
 ### 🐛 GlitchSnap Studio — QA All-in-One Desktop Tool
 
 <br />
