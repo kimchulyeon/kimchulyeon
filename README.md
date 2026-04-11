@@ -35,8 +35,7 @@
   <br />
 
   <a href="https://whitecotton-rust.vercel.app">
-    <img src="https://img.shields.io/badge/Website-whitecotton-667EEA?style=for-the-bad
-  ge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-whitecotton-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
   <br /><br />
