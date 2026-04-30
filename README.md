@@ -40,6 +40,39 @@
 
   <br /><br />
 
+  ---
+
+  ### 🖥️ KindTerm — AI Native Terminal
+
+  <br />
+
+  > **개발자를 위한 AI 통합 macOS 터미널 앱**
+  >
+  > 네이티브 터미널 · SSH 서버 관리 · alias 관리 · AI 채팅 · 자동 업데이트
+
+  <br />
+    <img width="124" height="124" alt="KindTerm" src="./kindterm.png" />
+  </a>
+
+  <br />
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=tauri,rust,react,ts,swift,sqlite&theme=dark&perline=6" height="44" />
+  </p>
+
+  <br />
+
+  <a href="https://github.com/kimchulyeon/kindterm">
+    <img src="https://img.shields.io/badge/GitHub-KindTerm-667EEA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kimchulyeon/kindterm-releases/releases/latest/download/kindterm_0.2.4_aarch64.dmg">
+    <img src="https://img.shields.io/badge/macOS_(Apple_Silicon)-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <a href="https://github.com/kimchulyeon/kindterm-releases/releases/latest">
+    <img src="https://img.shields.io/badge/Release-Latest-667EEA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br /><br />
   
 
 ---
