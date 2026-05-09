@@ -62,8 +62,10 @@
 
   <br />
 
-  <a href="https://github.com/kimchulyeon/kindterm-releases/releases/download/v0.2.6/kindterm_0.2.6_aarch64.dmg">
+  <a href="https://github.com/kimchulyeon/kindterm-releases/releases/latest/download/kindterminal_0.3.3_aarch64.dmg">
     <img src="https://img.shields.io/badge/macOS_(Apple_Silicon)-Download-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/kimchulyeon/kindterm-releases/releases/latest">
     <img src="https://img.shields.io/badge/Release-Latest-667EEA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
