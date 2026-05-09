@@ -42,22 +42,26 @@
 
   ---
 
-  ### 🖥️ KindTerm — AI Native Terminal
+  ### 🖥️ KindTerminal — Native macOS Terminal
 
   <br />
 
-  > **개발자를 위한 AI 통합 macOS 터미널 앱**
+  > **한국어 IME에 강한 AI 통합 macOS 터미널 앱**
   >
-  > 네이티브 터미널 · SSH 서버 관리 · alias 관리 · AI 채팅 · 자동 업데이트
+  > Swift/AppKit 네이티브 터미널 · SSH 서버 관리 · alias 관리 · AI 채팅 · Sparkle 자동 업데이트
 
   <br />
-    <img width="124" height="124" alt="KindTerm" src="./kindterm.png" />
+  <a href="https://github.com/kimchulyeon/kindterm-releases/releases/latest">
+    <img width="124" height="124" alt="KindTerminal" src="./kindterm.png" />
   </a>
 
   <br />
 
   <p>
-    <img src="https://skillicons.dev/icons?i=tauri,rust,react,ts,swift,sqlite&theme=dark&perline=6" height="44" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/AppKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sparkle-667EEA?style=for-the-badge&logo=sparkles&logoColor=white" />
   </p>
 
   <br />
