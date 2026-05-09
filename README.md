@@ -46,7 +46,7 @@
 
   <br />
 
-  > **한국어 IME에 강한 AI 통합 macOS 터미널 앱**
+  > **AI 통합 macOS 터미널 앱**
   >
   > Swift/AppKit 네이티브 터미널 · SSH 서버 관리 · alias 관리 · AI 채팅 · Sparkle 자동 업데이트
 
