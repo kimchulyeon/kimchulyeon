@@ -10,6 +10,42 @@
 
 ---
 
+
+  ### 🎨 VibeBar — VS Code Ambient ASCII Art Extension
+
+  <br />
+
+  > **VS Code 탐색기 사이드바에 감성 ASCII 아트를 띄우는 확장프로그램**
+  >
+  > 회전하는 지구 · 한글 자모 매트릭스 레인 · 컬러 라바 램프 · 커스텀 ASCII 아트
+
+  <br />
+
+  <a href="https://marketplace.visualstudio.com/items?itemName=chulyeon.vibebar">
+    <img width="124" height="124" alt="VibeBar" src="./vibebar.png" />
+  </a>
+
+  <br />
+
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+    <img src="https://img.shields.io/badge/ASCII_ART-667EEA?style=for-the-badge" />
+  </p>
+
+  <br />
+
+  <a href="https://marketplace.visualstudio.com/items?itemName=chulyeon.vibebar">
+    <img src="https://img.shields.io/badge/VS_Code_Marketplace-Install-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=chulyeon.vibebar">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/chulyeon.vibebar?style=for-the-badge&label=Version&color=667EEA" />
+  </a>
+
+  <br /><br />
+  
+
  ### 🌿 White Cotton — AWS 서비스 백과사전
 
   <br />
