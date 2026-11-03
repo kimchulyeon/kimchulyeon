@@ -26,6 +26,12 @@
 
 <br />
 
+ <a href="https://apps.apple.com/app/id6825214378">
+  <img width="698" height="450" alt="스크린샷 2026-11-03 오전 10 29 07" src="https://github.com/user-attachments/assets/c30f93fe-1fc9-4525-87c4-f0e0294375ef" />
+</a>
+
+<br />
+
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/AppKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
