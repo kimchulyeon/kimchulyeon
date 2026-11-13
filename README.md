@@ -16,7 +16,7 @@
 
 > **예전에 하던 그 바탕화면 부수기를 맥용으로 다시 만든 게임**
 >
-> 망치, 전기톱, 화염방사기, 흰개미 같은 도구 9개로 지금 보이는 화면을 부숨. 실제 파일은 안 건드리고 ESC 누르면 원래대로 돌아옴
+> 망치, 전기톱, 화염방사기, 흰개미 등의 다양한 도구들로 지금 보이는 화면을 부숨
 
 <br />
 
@@ -27,7 +27,7 @@
 <br />
 
  <a href="https://apps.apple.com/app/id6825214378">
-  <img width="698" height="450" alt="스크린샷 2026-11-03 오전 10 29 07" src="https://github.com/user-attachments/assets/c30f93fe-1fc9-4525-87c4-f0e0294375ef" />
+  <img width="450" height="700" alt="스크린샷 2026-11-03 오전 10 29 07" src="https://github.com/user-attachments/assets/1ab9c3bb-09ba-4c93-a582-2a45eeafbb4b" />
 </a>
 
 <br />
